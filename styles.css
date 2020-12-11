@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+}
+h4,ol,h2,ul {
+    color: white;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+h1{
+	color: green;
+	background-color:none;
+	padding: 20px;
+}
+u{
+	text-decoration-style: wavy;
+}
